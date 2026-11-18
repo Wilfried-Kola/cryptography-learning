@@ -1,1 +1,10 @@
+# Secret cryptographic keys
+*.key
+chacha20-key.bin
+
+# Compiled Java files
 *.class
+
+# IDE and system files
+.idea/
+.DS_Store
